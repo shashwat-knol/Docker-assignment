@@ -1,0 +1,1 @@
+print('Python program executed using docker in alpine')

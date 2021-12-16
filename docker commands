@@ -1,0 +1,14 @@
+Docker commands used:
+
+ docker version
+ docker pull
+ docker images
+ docker rmi
+ docker run
+ docker ps
+ docker info
+ docker search
+ docker update
+ docker start
+ docker restart
+ docker stop
